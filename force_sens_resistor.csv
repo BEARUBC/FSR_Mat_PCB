@@ -1,0 +1,34 @@
+"Source:","C:\Users\umaru\Documents\cad\fsr\force_sens_resistor\force_sens_resistor.kicad_sch"
+"Date:","11/27/2022 8:21:04 PM"
+"Tool:","Eeschema (6.0.6)"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","12"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","C1","0.1uF","Device:C_Polarized_Small_US","Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal","~"
+"","","C2","0.1uF","Device:C_Polarized_Small_US","Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal","~"
+"","","C3","0.1uF","Device:C_Polarized_Small_US","Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal","~"
+"","","C4","0.1uF","Device:C_Polarized_Small_US","Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal","~"
+"","","J1","MCU_HEADER_PINS","Connector:Conn_01x09_Female","Connector_PinSocket_1.00mm:PinSocket_1x09_P1.00mm_Vertical","~"
+"","","J2","DRIVE_COLS","Connector:Conn_01x16_Female","Connector_PinSocket_1.00mm:PinSocket_1x16_P1.00mm_Vertical","~"
+"","","J3","READ_ROWS","Connector:Conn_01x10_Female","Connector_PinSocket_1.00mm:PinSocket_1x10_P1.00mm_Vertical","~"
+"","","R1","20k","Device:R_Small","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical","~"
+"","","U1","74HCT595","74xx:74HCT595","Package_DIP:DIP-16_W7.62mm_LongPads","https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf"
+"","","U2","74HCT595","74xx:74HCT595","Package_DIP:DIP-16_W7.62mm_LongPads","https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf"
+"","","U3","4051","4xxx:4051","Package_DIP:DIP-16_W10.16mm","http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4051bms-52bms-53bms.pdf"
+"","","U4","4051","4xxx:4051","Package_DIP:DIP-16_W10.16mm","http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4051bms-52bms-53bms.pdf"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","4","C1, C2, C3, C4","0.1uF","Device:C_Polarized_Small_US","Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal","~"
+"2","1","J1","MCU_HEADER_PINS","Connector:Conn_01x09_Female","Connector_PinSocket_1.00mm:PinSocket_1x09_P1.00mm_Vertical","~"
+"3","1","J2","DRIVE_COLS","Connector:Conn_01x16_Female","Connector_PinSocket_1.00mm:PinSocket_1x16_P1.00mm_Vertical","~"
+"4","1","J3","READ_ROWS","Connector:Conn_01x10_Female","Connector_PinSocket_1.00mm:PinSocket_1x10_P1.00mm_Vertical","~"
+"5","1","R1","20k","Device:R_Small","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical","~"
+"6","2","U1, U2","74HCT595","74xx:74HCT595","Package_DIP:DIP-16_W7.62mm_LongPads","https://assets.nexperia.com/documents/data-sheet/74HC_HCT595.pdf"
+"7","2","U3, U4","4051","4xxx:4051","Package_DIP:DIP-16_W10.16mm","http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4051bms-52bms-53bms.pdf"
