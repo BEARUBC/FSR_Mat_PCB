@@ -109,4 +109,4 @@ Umar Ali
 ## 🧾 Version History
 
 * 1.0
-    * Initial Release follwoing Sensitronics' MatrixArray tutorial
+    * Initial Release following Sensitronics' MatrixArray tutorial
