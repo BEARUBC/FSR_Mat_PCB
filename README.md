@@ -1,5 +1,7 @@
 # FSR Matrix Printed Circuit Board
 
+**As of 2023-03-24, this README is outdated. Documentation for Tiaan's FSR is in progress. 
+
 <p align="center">
 These are the CAD files for the FSR printed circuit boards (PCB) using through-hole only components. This board is used for controlling a force sensitive resistor matrix, reading analog values from each cell.  
 </p>
@@ -102,6 +104,7 @@ void loop() {
 
 Contributors names and contact info
 
+Tiaan Boshoff
 Kyle Kochi
 Tiffany Prayitino
 Umar Ali  

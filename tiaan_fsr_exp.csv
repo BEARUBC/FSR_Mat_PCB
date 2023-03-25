@@ -1,0 +1,10 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C4,C2,C3,C1";"CP_Radial_D4.0mm_P2.00mm";4;"0.1uF";;;
+2;"J3,J5";"PinHeader_1x02_P2.54mm_Vertical";2;"Conn_01x02";;;
+3;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal";1;"20k";;;
+4;"J2";"JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal";1;"Conn_01x03";;;
+5;"H1,H3,H4,H2";"MountingHole_2.7mm_M2.5_DIN965_Pad";4;"MountingHole";;;
+6;"J4";"IDC-Header_2x17_P2.54mm_Vertical";1;"Conn_02x17_Odd_Even";;;
+7;"MUX1,MUX2";"DIP-16_W7.62mm_Socket";2;"74HC4051";;;
+8;"SR2,SR1";"DIP-16_W7.62mm_Socket";2;"74HC595";;;
+9;"J1";"JST_XH_S6B-XH-A-1_1x06_P2.50mm_Horizontal";1;"Conn_01x06";;;
